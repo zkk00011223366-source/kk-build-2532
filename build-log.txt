@@ -1,7 +1,7 @@
 == resources ==
 /dev/root       145G   47G   98G  33% /
                total        used        free      shared  buff/cache   available
-Mem:           15983        1014        6243          49        9120       14968
+Mem:           15983        1021        6235          50        9120       14961
 == tail ==
 
 ==> 依赖: flutter pub get
@@ -111,3 +111,4 @@ curl: (22) The requested URL returned error: 404
 [1;34m[runtime 10:38:01][0m download http://ports.ubuntu.com/ubuntu-ports/pool/main/p/perl/perl-modules-5.38_5.38.2-3.2ubuntu0.6_all.deb
 curl: (22) The requested URL returned error: 404
 [1;34m[runtime 10:38:01][0m download https://launchpad.net/ubuntu/+archive/primary/+files/perl-modules-5.38_5.38.2-3.2ubuntu0.6_all.deb
+curl: (22) The requested URL returned error: 502
