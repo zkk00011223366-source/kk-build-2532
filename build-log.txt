@@ -1,7 +1,7 @@
 == resources ==
 /dev/root       145G   52G   93G  36% /
                total        used        free      shared  buff/cache   available
-Mem:           15983        7147         327          50        8903        8835
+Mem:           15983        5657        1803          50        8917       10325
 == tail ==
 
 ==> 依赖: flutter pub get
@@ -433,3 +433,6 @@ Installing Android SDK Platform 34 in /home/runner/dev/android-sdk/platforms/and
 "Install Android SDK Platform 34 (revision 3)" complete.
 "Install Android SDK Platform 34 (revision 3)" finished.
 Flutter assets will be downloaded from https://storage.googleapis.com. Make sure you trust this source!
+[=========                              ] 25%                                   
+Font asset "DshIcons.ttf" was tree-shaken, reducing it from 53796 to 50204 bytes (6.7% reduction). Tree-shaking can be disabled by providing the --no-tree-shake-icons flag when building your app.
+Font asset "MaterialIcons-Regular.otf" was tree-shaken, reducing it from 1645184 to 3924 bytes (99.8% reduction). Tree-shaking can be disabled by providing the --no-tree-shake-icons flag when building your app.
