@@ -1,7 +1,7 @@
 == resources ==
 /dev/root       145G   47G   98G  33% /
                total        used        free      shared  buff/cache   available
-Mem:           15983        1038        6226          49        9112       14944
+Mem:           15983        1032        6225          49        9118       14950
 == tail ==
 
 ==> 依赖: flutter pub get
@@ -94,3 +94,14 @@ curl: (22) The requested URL returned error: 404
 [1;34m[runtime 10:35:59][0m download http://ports.ubuntu.com/ubuntu-ports/pool/main/p/perl/libperl5.38t64_5.38.2-3.2ubuntu0.6_arm64.deb
 curl: (22) The requested URL returned error: 404
 [1;34m[runtime 10:35:59][0m download https://launchpad.net/ubuntu/+archive/primary/+files/libperl5.38t64_5.38.2-3.2ubuntu0.6_arm64.deb
+[1;34m[runtime 10:36:15][0m download http://ports.ubuntu.com/ubuntu-ports/pool/main/libp/libpsl/libpsl5t64_0.21.2-1.1build1_arm64.deb
+[1;34m[runtime 10:36:15][0m download http://ports.ubuntu.com/ubuntu-ports/pool/main/r/rtmpdump/librtmp1_2.4+20151223.gitfa8646d.1-2build7_arm64.deb
+[1;34m[runtime 10:36:15][0m download http://ports.ubuntu.com/ubuntu-ports/pool/main/c/cyrus-sasl2/libsasl2-2_2.1.28+dfsg1-5ubuntu3.1_arm64.deb
+[1;34m[runtime 10:36:15][0m download http://ports.ubuntu.com/ubuntu-ports/pool/main/c/cyrus-sasl2/libsasl2-modules-db_2.1.28+dfsg1-5ubuntu3.1_arm64.deb
+[1;34m[runtime 10:36:15][0m download http://ports.ubuntu.com/ubuntu-ports/pool/main/libs/libssh/libssh-4_0.10.6-2ubuntu0.5_arm64.deb
+curl: (22) The requested URL returned error: 404
+[1;34m[runtime 10:36:15][0m download https://launchpad.net/ubuntu/+archive/primary/+files/libssh-4_0.10.6-2ubuntu0.5_arm64.deb
+[1;34m[runtime 10:36:19][0m download http://ports.ubuntu.com/ubuntu-ports/pool/main/o/openssl/openssl_3.0.13-0ubuntu3.16_arm64.deb
+[1;34m[runtime 10:36:19][0m download http://ports.ubuntu.com/ubuntu-ports/pool/main/p/perl/perl_5.38.2-3.2ubuntu0.6_arm64.deb
+curl: (22) The requested URL returned error: 404
+[1;34m[runtime 10:36:19][0m download https://launchpad.net/ubuntu/+archive/primary/+files/perl_5.38.2-3.2ubuntu0.6_arm64.deb
